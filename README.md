@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aurora
-- 👀 I’m interested in coding, design, edit photos
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding, and designing
+- 🌱 I’m currently learning Java Script
 
 
 <!---
